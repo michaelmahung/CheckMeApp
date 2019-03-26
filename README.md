@@ -13,34 +13,34 @@ exposure to Xamarin development.
 
 ## Things I Learned
 
--Xamarin Setup and Installation
+- Xamarin Setup and Installation
 
--Basics of SQL
+- Basics of SQL
 
--Basics of Microsoft Azure
+- Basics of Microsoft Azure
 
--PDF Manipulation
+- PDF Manipulation
 
--Permission Requesting
+- Permission Requesting
 
--Sending Emails using Native Application
+- Sending Emails using Native Application
 
--Taking, Saving, and Selecting Photos
+- Taking, Saving, and Selecting Photos
 
--Basics of Data Bindings
+- Basics of Data Bindings
 
--Using Pickers, Labels, DatePickers, Entry Fields, and Buttons
+- Using Pickers, Labels, DatePickers, Entry Fields, and Buttons
 
--Basics of Dependency Injection
+- Basics of Dependency Injection
 
--WebViews
+- WebViews
 
--Basics of Asynchronous Programming
+- Basics of Asynchronous Programming
 
--Basics of file reading and writing
+- Basics of file reading and writing
 
--File + Memory Streams
+- File + Memory Streams
 
--Rooting Android Emulators
+- Rooting Android Emulators
 
--Lambda Functions
+- Lambda Functions
